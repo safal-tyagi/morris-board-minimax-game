@@ -1,0 +1,52 @@
+MiniMaxOpening:
+Input Board Position:   xxxxxxxxxWxxxxxxBxxxxxx
+Output Board Position:  WxxxxxxxxWxxxxxxBxxxxxx
+Positions Evaluated:    840
+MINIMAX Estimate:       0
+
+MiniMaxGame
+Input Board Position:   xxxxxxxxxxWWxWWxBBBxxxx
+Output Board Position:  xxxxxxWxxxxWxWWxBBBxxxx
+Positions Evaluated:    5394
+MINIMAX Estimate:       -49
+
+ABOpening
+Input Board Position:   xxxxxxxxxWxxxxxxBxxxxxx
+Output Board Position:  WxxxxxxxxWxxxxxxBxxxxxx
+Positions Evaluated:    80
+MINIMAX Estimate:       0
+
+ABGame
+Input Board Position:   xxxxxxxxxxWWxWWxBBBxxxx
+Output Board Position:  xxxxxxWxxxxWxWWxBBBxxxx
+Positions Evaluated:    1682
+MINIMAX Estimate:       -49
+
+MiniMaxOpeningBlack
+Input Board Position:   xxxxxxxxxWxxxxxxBxxxxxx
+Output Board Position:  BxxxxxxxxWxxxxxxBxxxxxx
+Positions Evaluated:    840
+MINIMAX Estimate:       0
+
+MiniMaxGameBlack
+Input Board Position:   xxxxxxxxxxWWxWWxBBBxxxx
+Output Board Position:  xxxxxxxxxxWWBWWxxBBxxxx
+Positions Evaluated:    2988
+MINIMAX Estimate:       993
+
+MiniMaxOpeningImproved
+Input Board Position:   xxxxxxxxxWxxxxxxBxxxxxx
+Output Board Position:  xWxxxxxxxWxxxxxxBxxxxxx
+Positions Evaluated:    238
+MINIMAX Estimate:       17
+
+MiniMaxGameImproved
+Input Board Position:   xxxxxxxxxxWWxWWxBBBxxxx
+Output Board Position:  xxxxxxWxxxxWxWWxBBBxxxx
+Positions Evaluated:    1667
+MINIMAX Estimate:       1299
+
+
+
+
+

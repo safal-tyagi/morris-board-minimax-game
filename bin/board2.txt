@@ -1,0 +1,3 @@
+Output Board Position:	xWxxxxxxxWxxxxxxBxxxxxx
+Positions Evaluated:	840
+MINIMAX Estimate:	17
